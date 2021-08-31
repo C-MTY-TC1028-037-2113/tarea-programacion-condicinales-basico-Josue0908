@@ -1,6 +1,6 @@
 
 def main():
-    #escribe tu código abajo de esta línea
+    #escribe tu código abajo de esta linea
     numero = int(input("Dame un número: "))
     if (numero > 0):
         print("Es positivo")
